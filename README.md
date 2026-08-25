@@ -1,6 +1,7 @@
 # Olist_data-science
 I will be posting the weekly analysis and progress upon working on this dataset
-# Olist E-Commerce Data Science Project
+
+# Olist E-Commerce Dataset
 
 This project is a weekly data science journey using the Olist Brazilian E-Commerce dataset. The aim is to apply the concepts learned in my B.Tech CSE (Data Science) course to a real-world dataset.
 
